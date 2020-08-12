@@ -9,12 +9,12 @@
 
 **어떻게 하면 슬라이스를 효과적으로 delete and cut 을 할 수 있을까**
 ----------------------------------------
-> go blog Link: https://blog.golang.org/index   
-> Link: https://github.com/golang/go/wiki/SliceTricks    
-> Arrays, slices (and strings): The mechanics of 'append' Link: https://blog.golang.org/slices   
-> Go Slices: usage and internals Link: https://blog.golang.org/slices-intro   
+> go blog Link: [https://blog.golang.org/index]   
+> Link: [https://github.com/golang/go/wiki/SliceTricks]    
+> Arrays, slices (and strings): The mechanics of 'append' Link: [https://blog.golang.org/slices]   
+> Go Slices: usage and internals Link: [https://blog.golang.org/slices-intro]   
 
 <hr/>
 **sort.Sort 와 sort.Slice**
 ------------------------    
-> sort와 slice 차이점 Link: https://qiita.com/chimatter/items/f908507287fe2c7030e9   
+> sort와 slice 차이점 Link: [https://qiita.com/chimatter/items/f908507287fe2c7030e9]   
