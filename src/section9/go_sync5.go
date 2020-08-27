@@ -42,7 +42,7 @@ func main() {
 	// 	condition.Signal() //모든 goroutine 생성 후 동작 한개씩 wake up
 	// 	mutex.Unlock()
 	// }
-
+	condition.Signal()
 	mutex.Lock()
 	fmt.Println("Wake up Goroutine All(BroadCast)")
 	condition.Broadcast()
