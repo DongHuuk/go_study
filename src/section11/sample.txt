@@ -1,0 +1,6 @@
+Create : 새 파일 작성 및 파일 열기
+Close : 리소스 반환
+Write, WriteString, WriteAt : 파일 쓰기
+각 OS의 권한들을 주의
+예외 처리 중요!
+http://golang.org/pkg/os
