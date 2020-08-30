@@ -1,22 +1,22 @@
 package arithmetic
 
 type Numbers struct {
-	x int64
-	y int64
+	X int64
+	Y int64
 }
 
 func (n *Numbers) SumNumber() int64 {
-	return n.x + n.y
+	return n.X + n.Y
 }
 
 func (n *Numbers) MinusNumber() int64 {
-	return n.x - n.y
+	return n.X - n.Y
 }
 
 func (n *Numbers) MultiNumber() int64 {
-	return n.x * n.y
+	return n.X * n.Y
 }
 
 func (n *Numbers) DivideNumber() int64 {
-	return n.x / n.y
+	return n.X / n.Y
 }
